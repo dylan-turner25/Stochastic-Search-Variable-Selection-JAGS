@@ -1,2 +1,2 @@
-# JAGS-SSVS
-R script to apply stochastic search variable selection to a bayesian probit model
+# Stochastic-Search-Variable-Selection-JAGS
+R scripts to conduct stochastic search variable selection for a handful of model specification using "spike and slab" bayesian priors.
